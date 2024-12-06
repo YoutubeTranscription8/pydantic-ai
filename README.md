@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <em>Agent Framework / shim to use Pydantic with LLMs</em>
+  <em>Agent Framework / shim to use Pydantic with LLMs.</em>
 </div>
 <div align="center">
   <a href="https://github.com/pydantic/pydantic-ai/actions/workflows/ci.yml?query=branch%3Amain"><img src="https://github.com/pydantic/pydantic-ai/actions/workflows/ci.yml/badge.svg?event=push" alt="CI"></a>
